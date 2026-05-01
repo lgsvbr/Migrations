@@ -1,6 +1,5 @@
+migrations
+
 node_modules
 
 .env
-
-migrations
-
